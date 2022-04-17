@@ -1,4 +1,4 @@
-# Team Profile Generator
+# MyTeam Profile
 
 ## Description
 
