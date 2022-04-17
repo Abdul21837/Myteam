@@ -1,0 +1,68 @@
+:root{
+    --primary: #053742;
+    --secondary: #39A2DB;
+    --cold-color: #A2DBFA;
+    --winter-color: #E8F0F2;
+}
+
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    box-sizing: border-box;
+}
+
+header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 10vh;
+}
+
+.primary-bg{
+    background: var(--primary);
+}
+
+.secondary-bg{
+    background: var(--secondary);
+}
+
+.cold-bg{
+    background: var(--cold-color);
+}
+
+.winter-bg{
+    background: var(--winter-color);
+}
+
+.primary-text{
+    color: var(--primary);
+}
+
+.secondary-text{
+    color: var(--secondary);
+}
+
+.cold-text{
+    color: var(--cold-color);
+}
+
+.winter-text{
+    color: var(--winter-color);
+}
+
+.secondary-border{
+    border-color: var(--secondary);
+}
+
+.team-section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.card-header{
+    padding: 10px;
+    border-radius: 5px;
+}
