@@ -2,8 +2,7 @@
 
 ## Description
 
-The goal of this project was to create a node application that can generate a html team page using user input. The application also must have unit tests setup to validate if the classes and functions are being created properly. The full details of the assignment can be viewed [here](./assets/media/AssignmentDetails.md)
-
+The goal of this project was to create a node application that can generate a html team page using user input. The application also must have unit tests setup to validate if the classes and functions are being created properly.
 ## Table of Contents
 
 - [Video Walkthrough](#walkthrough)
